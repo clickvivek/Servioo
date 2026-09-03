@@ -166,6 +166,7 @@ img { max-width: 100%; display: block; }
     align-items: center;
     gap: 10px;
 }
+.brand-logo-img { height: 42px; width: auto; object-fit: contain; }
 .logo-text { display: flex; flex-direction: column; line-height: 1.2; }
 .logo-name { font-size: 1.1rem; font-weight: 800; color: var(--blue-primary); }
 .logo-sub { font-size: .7rem; font-weight: 500; color: var(--text-secondary); letter-spacing: .02em; }
