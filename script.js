@@ -1,4 +1,4 @@
-// ===== Kash Tecz Consulting — Interactive Features =====
+// ===== Servioo Technologies — Interactive Features =====
 
 document.addEventListener('DOMContentLoaded', () => {
 
