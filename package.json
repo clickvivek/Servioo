@@ -1,0 +1,12 @@
+{
+  "name": "servioo-technologies",
+  "version": "1.0.0",
+  "description": "Servioo Technologies Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
